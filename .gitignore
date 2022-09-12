@@ -1,0 +1,8 @@
+# mac files
+.DS_Store
+
+# swp files
+*.swp
+
+# node packages
+node_modules/
