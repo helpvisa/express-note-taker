@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "title": "Test Note #1",
+    "text": "This is the first test note.",
+    "id": "0"
+  },
+  {
+    "title": "Test Note #2",
+    "text": "This is the second test note.",
+    "id": "1"
+  },
+  {
+    "title": "Test Note #3",
+    "text": "This is the third test note. Having a good time?",
+    "id": "2"
+  },
+  {
+    "title": "Test Note #4",
+    "text": "This is the fourth test note.",
+    "id": "3"
+  },
+  {
+    "title": "Test Note #5",
+    "text": "This is the fifth (and final) test note.",
+    "id": "4"
+  }
+]
