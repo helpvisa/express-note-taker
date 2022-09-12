@@ -27,6 +27,8 @@ This application uses Node.js for its server-side code; in order to install the 
 
 Once Node Package Manager has installed the necessary dependencies, the server can be run by typing "npm start" in the command line from the directory containing server.js.
 
+A sample version of the server running this application can be found at [this link](https://helpvisa-notetaker.herokuapp.com/).
+
 
 ## Images
 
